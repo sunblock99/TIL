@@ -207,3 +207,26 @@ $ firewall-cmd --reload
 ```
 $ service jenkins start
 ```
+
+나는 여기서 에러가 나왔다...
+에러내용은 jdk8로 설치하여서 ㅋㅋ
+jdk11로 사용하자
+
+```
+$ ip addr
+```
+
+해당 명령어를 입력하면 ip에 대한 정보가 나온다
+
+이후, 호스트에서 브라우저를 열고 http://IP주소:포트번호를 입력해 접속한다.
+나의 경우 http://192.168.10.18:9090이었다.
+
+![](https://velog.velcdn.com/images/sunblock99/post/8d0a035d-cd1a-42d3-a7c0-585dab5f9d3d/image.png)
+
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbBI5AD%2FbtrkS8KRf3N%2FKGQ5lWXbwwQqiuwoPjDFEK%2Fimg.png
+
+기다려달라는 창이 뜬 뒤, 다음과 같은 화면이 뜬다.
+
+```
+cat /var/lib/jenkins/secrets/initialAdminPassword
+```
