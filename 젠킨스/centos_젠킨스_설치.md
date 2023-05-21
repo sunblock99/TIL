@@ -230,3 +230,27 @@ https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog
 ```
 cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
+
+![](https://velog.velcdn.com/images/sunblock99/post/a4210fd4-e0b0-4331-8992-214eb575b4ac/image.png)
+
+화면에 표시된 경로를 통해 초기 비밀번호를 확인한다.
+
+![](https://velog.velcdn.com/images/sunblock99/post/f65a433b-3020-4354-9fb9-5f7b9794a1e4/image.png)
+
+비밀번호를 입력하고 Continue를 누르면 다음 화면이 뜬다.
+
+install suggested plugins를 클릭해 기초 플러그인을 설치한다.
+
+![](https://velog.velcdn.com/images/sunblock99/post/2678c5d3-ce04-4cf7-86ba-a60c9e15de8e/image.png)
+
+![](https://velog.velcdn.com/images/sunblock99/post/92bc7b95-7f30-43e4-9c40-04fcf7cab225/image.png)
+
+계정 정보를 입력하고 Save and Continue를 누른다.
+
+![](https://velog.velcdn.com/images/sunblock99/post/27d14b2b-f2a8-4fcf-a264-28b6a7585473/image.png)
+
+URL을 입력하고 Save and Finish를 누른다.
+
+![](https://velog.velcdn.com/images/sunblock99/post/99c665b4-0e9e-4055-924f-793ee66dade0/image.png)
+
+Start using Jenkins를 누른다.
